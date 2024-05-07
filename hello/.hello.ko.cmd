@@ -1,0 +1,1 @@
+savedcmd_/home/abhishek/abhishek/kernal/hello/hello.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/abhishek/abhishek/kernal/hello/hello.ko /home/abhishek/abhishek/kernal/hello/hello.o /home/abhishek/abhishek/kernal/hello/hello.mod.o;  make -f ./arch/x86/Makefile.postlink /home/abhishek/abhishek/kernal/hello/hello.ko

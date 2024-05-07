@@ -1,0 +1,1 @@
+savedcmd_/home/abhishek/abhishek/kernal/hello/Module.symvers :=  scripts/mod/modpost -m -a      -o /home/abhishek/abhishek/kernal/hello/Module.symvers -T /home/abhishek/abhishek/kernal/hello/modules.order -i Module.symvers -e 
