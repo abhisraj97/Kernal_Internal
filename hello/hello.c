@@ -6,6 +6,7 @@ MODULE_LICENSE("Dual MIT/GPL");
 static int __init hello_init(void)
 {
 	pr_alert("Hello World\n");
+	pr_err("Hello err\n");
 	return 0;
 }
 
